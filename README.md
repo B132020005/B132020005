@@ -8,4 +8,4 @@
 - [EX01-03](https://colab.research.google.com/drive/1QR7_6Psw3q0KaKoSQPspTdgRuOaS6pQl#scrollTo=Ce6kBmyxRr6M)
 ### W2
 - [EX01-04](https://colab.research.google.com/gist/B132020005/2161098a0c450e2db95cc385365d42a8/ex01-04.ipynb)
-- [EX01-04](https://colab.research.google.com/drive/1VvZHcUkqrx5e1JXGRRBo6vb5A1BxC3aX)
+- [EX01-05](https://colab.research.google.com/drive/1VvZHcUkqrx5e1JXGRRBo6vb5A1BxC3aX)
