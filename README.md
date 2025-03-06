@@ -12,3 +12,4 @@
 - [EX01-06](https://colab.research.google.com/drive/1ltTyq58Zc-FCcuXFm-0GZblaEuoc2Gph)
 ### W3
 - [EX01-07](https://colab.research.google.com/drive/1DDWpLP2qZGGPcNZTHr2Aary1W_PYtp-i#scrollTo=6SrKO4b6ARz0)
+- [EX02-01](https://colab.research.google.com/drive/1UDfVetWWxcOP6uQZoznnc5CKsx1hOiSw#scrollTo=0FqxkKjQ_G78)
