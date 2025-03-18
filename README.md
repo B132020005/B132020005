@@ -13,3 +13,7 @@
 ### W3
 - [EX01-07](https://colab.research.google.com/drive/1DDWpLP2qZGGPcNZTHr2Aary1W_PYtp-i#scrollTo=6SrKO4b6ARz0)
 - [EX02-01](https://colab.research.google.com/drive/1UDfVetWWxcOP6uQZoznnc5CKsx1hOiSw#scrollTo=0FqxkKjQ_G78)
+### W4
+- [EX02-02](https://colab.research.google.com/drive/1mtw_MpRwSn6aeCvSyjgWUmGxgMpdIPSv)
+### W5
+- [EX02-03](https://colab.research.google.com/drive/1W_LiISgp1rFx-LtELuVK9zXOB5iHDmXB#scrollTo=pcXNAXx5CssX)
