@@ -17,3 +17,4 @@
 - [EX02-02](https://colab.research.google.com/drive/1mtw_MpRwSn6aeCvSyjgWUmGxgMpdIPSv)
 ### W5
 - [EX02-03](https://colab.research.google.com/drive/1W_LiISgp1rFx-LtELuVK9zXOB5iHDmXB#scrollTo=pcXNAXx5CssX)
+- [EX02-04](https://colab.research.google.com/drive/1Ff1dV4Ppry6zHEjrQox9qaV1gLnOAxCe#scrollTo=xLc4BsLDYsF6)
