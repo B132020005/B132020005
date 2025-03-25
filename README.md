@@ -18,3 +18,6 @@
 ### W5
 - [EX02-03](https://colab.research.google.com/drive/1W_LiISgp1rFx-LtELuVK9zXOB5iHDmXB#scrollTo=pcXNAXx5CssX)
 - [EX02-04](https://colab.research.google.com/drive/1Ff1dV4Ppry6zHEjrQox9qaV1gLnOAxCe#scrollTo=xLc4BsLDYsF6)
+### W6
+-[EX02-05](https://colab.research.google.com/drive/1N3EsOPd-VTMhwVLpL_36XSy2BAFs9mYC#scrollTo=yhaoTLabNQ30)
+-[EX02-06]
