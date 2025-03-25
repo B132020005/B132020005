@@ -20,4 +20,4 @@
 - [EX02-04](https://colab.research.google.com/drive/1Ff1dV4Ppry6zHEjrQox9qaV1gLnOAxCe#scrollTo=xLc4BsLDYsF6)
 ### W6
 -[EX02-05](https://colab.research.google.com/drive/1N3EsOPd-VTMhwVLpL_36XSy2BAFs9mYC#scrollTo=yhaoTLabNQ30)
--[EX02-06]
+-[EX02-06](https://colab.research.google.com/drive/1veCNnyvGbkgkA6Bb3hXwOi-xG3MKckuz#scrollTo=_2C0G_HlbIwk)
