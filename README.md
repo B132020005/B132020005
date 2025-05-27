@@ -28,7 +28,7 @@
 ### Chapter 4
 - [EX04-01 汽車車型數值資料轉換](https://colab.research.google.com/drive/1mfqZPTg_0lNDssiwf2damrPsv8iOstmR?ouid=112438958719559160865&usp=classroom_web&authuser=0)
 - [EX04-02 客戶基本資料編碼](https://colab.research.google.com/drive/1uslsAk8AeNATrr3WZgb4sk945V0RVz4H#scrollTo=7aHIYtv-rW60)
-- [EX04-03 客戶分群]()
+- [EX04-03 客戶分群](https://colab.research.google.com/drive/1rZWmVlbehaQB_XxK4AVQbOjI2Te1A6s6#scrollTo=4kF00ZtTzaM-)
 - [EX04-04 加州房價]()
 - [EX04-05 辨識鳶尾花]()
 - [EX04-06 ET Today 新聞標題分類]()
