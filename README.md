@@ -30,9 +30,8 @@
 - [EX04-02 客戶基本資料編碼](https://colab.research.google.com/drive/1uslsAk8AeNATrr3WZgb4sk945V0RVz4H#scrollTo=7aHIYtv-rW60)
 - [EX04-03 客戶分群](https://colab.research.google.com/drive/1rZWmVlbehaQB_XxK4AVQbOjI2Te1A6s6#scrollTo=4kF00ZtTzaM-)
 - [EX04-04 加州房價](https://colab.research.google.com/drive/19x3WD6BxV3oc_XI7whMf2Pjq62Z2wT1Y#scrollTo=FNF9-pHHot_m)
-- [EX04-05 辨識鳶尾花]()
-- [EX04-06 ET Today 新聞標題分類]()
-- [EX04-07 PTT 電影版情感分析]()
+- [EX04-05 辨識鳶尾花](https://colab.research.google.com/drive/1O9wyoX1McT0-wKEkz8X4KvIwGY2vFr4G#scrollTo=dd5Ea7tK_-Xu)
+- [EX04-06 ET Today 新聞標題分類](https://colab.research.google.com/drive/1sWgh_Xo70exh6nGUdmk-DwD_oqRKZHfU#scrollTo=rDKqqjavB1fo)
 ### Chapter 5
 - [EX05-01 Echo Bot](https://colab.research.google.com/drive/1SnIkpU63rd7SPxCzjK4tkbCKkKLx14f7?ouid=112438958719559160865&usp=classroom_web&authuser=0)
 - [EX05-02 Ask Gemini](https://colab.research.google.com/drive/169P6JiAKX7gJcxqh1fKxyd11z4BOSVKP?ouid=112438958719559160865&usp=classroom_web&authuser=0)
