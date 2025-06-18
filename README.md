@@ -37,4 +37,7 @@
 - [EX05-02 Ask Gemini](https://colab.research.google.com/drive/169P6JiAKX7gJcxqh1fKxyd11z4BOSVKP?ouid=112438958719559160865&usp=classroom_web&authuser=0)
 - [EX05-03 Reply Multi-type Messages](https://colab.research.google.com/drive/1_7IjTIz3Pg0aNUJjnCbISIEa4MrxvKSc?ouid=112438958719559160865&usp=classroom_web&authuser=0)
 - [EX05-04 Reply Template Messages](https://drive.google.com/open?id=1dpIsUvp5FOkiRfBfszDDTK58NriJ0qqE&usp=classroom_web&authuser=0)
-
+### Homework
+-[HWo1](https://colab.research.google.com/drive/1yy1sizdJFFcLNVT8IosoTMLPeTDq22vL?ouid=112438958719559160865&usp=classroom_web&authuser=0)
+-[HW02](https://colab.research.google.com/drive/17aptmJq1DlkXewjTDHUOf4ryIIT2TUuW?ouid=112438958719559160865&usp=classroom_web&authuser=0)
+-[Final report](https://colab.research.google.com/drive/10MvShjO7rxHgjE8pQ0CmAk_fLRxHLR6E?ouid=112438958719559160865&usp=classroom_web&authuser=0)
